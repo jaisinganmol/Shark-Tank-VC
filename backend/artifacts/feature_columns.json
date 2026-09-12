@@ -1,0 +1,21 @@
+[
+  "problem_clarity_score",
+  "market_need_score",
+  "founder_market_fit_score",
+  "ai_fit_score",
+  "business_potential_score",
+  "validation_score",
+  "confidence",
+  "eye_contact",
+  "speaking_speed",
+  "filler_words",
+  "clarity",
+  "energy",
+  "qna_quality_score",
+  "pitch_length_words",
+  "has_clear_customer",
+  "has_business_model",
+  "has_competition_awareness",
+  "has_go_to_market",
+  "has_revenue_model"
+]

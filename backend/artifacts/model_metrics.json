@@ -1,0 +1,14 @@
+{
+  "mae": 4.278771579958744,
+  "rmse": 5.397061759708092,
+  "r2": 0.8688534541168368,
+  "model_type": "Ridge",
+  "selected_model_family": "Ridge Regression",
+  "model_version": "synthetic_v1",
+  "training_rows": 4000,
+  "test_rows": 1000,
+  "feature_count": 19,
+  "best_params": {
+    "model__alpha": 5.0
+  }
+}

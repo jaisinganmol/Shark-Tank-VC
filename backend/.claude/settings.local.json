@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/anmoljaising/Desktop/Shark-Tank VC/**)",
+      "Bash(python3 -m venv .venv)",
+      "Bash(./.venv/bin/python -m pip install -r backend/requirements.txt)",
+      "Bash(python3.12 --version)",
+      "Bash(rm -rf .venv)",
+      "Bash(python3.12 -m venv .venv)",
+      "Bash(./.venv/bin/python -m pip install --upgrade pip)",
+      "Bash(pip install *)",
+      "Bash(python3.13 --version)",
+      "Read(//opt/homebrew/bin/**)",
+      "Bash(brew list *)",
+      "Bash(rm -rf venv)",
+      "Bash(/opt/homebrew/bin/python3.12 -m venv venv)",
+      "Bash(venv/bin/python --version)",
+      "Bash(venv/bin/pip install *)",
+      "Bash(../venv/bin/python --version)",
+      "Bash(\"/Users/anmoljaising/Desktop/Shark-Tank VC/backend/venv/bin/python\" -m uvicorn backend.main:app --reload --port 8000)",
+      "Bash(curl -s -X POST http://127.0.0.1:8000/api/session/run -H 'Content-Type: application/json' -d '{\"startup_idea\":\"AI pitch coach for immigrant founders\",\"target_customer\":\"immigrant technical founders\",\"problem\":\"They lack investor access and pitch feedback\",\"current_solution\":\"friends and generic advice\",\"founder_background\":\"immigrant engineer\",\"stage\":\"MVP\"}')",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d.get\\('meta',{}\\),indent=2\\)\\)\")"
+    ]
+  }
+}
