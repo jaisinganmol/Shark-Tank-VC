@@ -1,6 +1,6 @@
 # Shark-Tank VC
 
-Shark-Tank VC AI is an AI pitch room for immigrant technical founders. It helps founders validate their startup idea, sharpen positioning, build an investor-ready narrative, simulate a live investor pitch, and improve through AI feedback.
+Shark-Tank VC is an AI pitch room for immigrant technical founders. It helps founders validate their startup idea, sharpen positioning, build an investor-ready narrative, simulate a live investor pitch, and improve through AI feedback.
 
 ## Run locally
 
